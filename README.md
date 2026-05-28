@@ -37,7 +37,7 @@ The goal of this journey is to progressively build a modern AI-powered music pla
 
 ### Repository
 
-(Add your repository link here)
+[Basic Music Player](https://github.com/amin-neural/music-player-basic)
 
 ---
 
